@@ -62,7 +62,7 @@ SaaS de cardápio online multi-empresa. Sistema completo de pedidos, pagamentos 
 Plataforma de consultoria com dashboard administrativo, gestão de clientes e relatórios automáticos.
 
 ### 📊 [Prosper_Consult](https://github.com/yJuanReis/Prosper_Consult)
-Sistema de consultoria empresarial com análise de dados e recomendações inteligentes.
+Landing page de uma empresa de consultoria.
 
 ### 🦺 [Controle-EPI](https://github.com/yJuanReis/Controle-EPI)
 Sistema de controle de Equipamentos de Proteção Individual com inventário, distribuição e alertas automáticos.
