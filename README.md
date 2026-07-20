@@ -127,12 +127,12 @@ Landing page institucional para empresa de consultoria.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yJuanReis&show_icons=true&theme=dark&bg_color=1a1b27&title_color=00d4ff&icon_color=00d4ff&border_color=30363d&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yJuanReis&layout=compact&theme=dark&bg_color=1a1b27&title_color=00d4ff&border_color=30363d&hide_border=false" width="30%" />
+<img src="https://github-stats-extended.vercel.app/api?username=yJuanReis&show_icons=true&theme=dark&bg_color=1a1b27&title_color=00d4ff&icon_color=00d4ff&border_color=30363d&hide_border=false" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yJuanReis&layout=compact&theme=dark&bg_color=1a1b27&title_color=00d4ff&border_color=30363d&hide_border=false" width="30%" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yJuanReis&theme=dark&background=1a1b27&ring=00d4ff&fire=00d4ff&border=30363d" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=yJuanReis&theme=dark&background=1a1b27&ring=00d4ff&fire=00d4ff&border=30363d" width="49%" />
 
 </div>
 
