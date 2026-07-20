@@ -86,8 +86,8 @@ Plataforma inteligente de gestão de acesso, com automação, controle de permis
 </td>
 <td width="50%">
 
-### 🍔 [Cap-eats](https://github.com/yJuanReis/Cap-eats)
-SaaS de cardápio online multi-empresa — pedidos, pagamentos e gestão completa para restaurantes e lanchonetes.
+### 🍔 [seupedido.ai](https://github.com/yJuanReis/Cap-eats)
+SaaS de cardápio online (ex-Cap-eats, rebatizado) — pedidos, pagamentos e gestão completa para restaurantes e lanchonetes. *Em desenvolvimento.*
 
 </td>
 </tr>
@@ -95,24 +95,27 @@ SaaS de cardápio online multi-empresa — pedidos, pagamentos e gestão complet
 <td width="50%">
 
 ### 💼 [PenGOD](https://github.com/yJuanReis/PenGOD)
-Plataforma de consultoria com dashboard administrativo, gestão de clientes e relatórios automáticos.
+Toolkit de suporte remoto baseado em PowerShell, com acesso a ferramentas de suporte e privilégio admin.
 
 </td>
 <td width="50%">
 
 ### 🦺 [Controle-EPI](https://github.com/yJuanReis/Controle-EPI)
-Sistema de controle de EPIs com inventário, distribuição e alertas automáticos.
+Sistema de controle de itens para EPI e documentação de colaboradores dentro da empresa. *Em desenvolvimento, migrando do modelo original de inventário de EPI.*
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📊 [Prosper Consult](https://github.com/yJuanReis/Prosper_Consult)
-Landing page institucional para empresa de consultoria.
+### 🏪 Automação de lojas
+Automação para lojas simples usando n8n, IA, WAHA, PostgreSQL, Redis e Docker.
 
 </td>
 <td width="50%">
+
+### 📊 [Prosper Consult](https://github.com/yJuanReis/Prosper_Consult)
+Landing page institucional para empresa de consultoria.
 
 </td>
 </tr>
@@ -137,8 +140,9 @@ Landing page institucional para empresa de consultoria.
 
 ## 🎯 No momento
 
+- 🔧 Focado em Google Apps Script
+- 🤖 Usando bastante IA no dia a dia de trabalho — e explorando o potencial dela pra acelerar ainda mais
 - 🚀 Escalando produtos SaaS
-- 🤖 Explorando automação com IA
 - 📚 Compartilhando conhecimento sobre React e n8n
 - 🔨 Refatorando código antigo para padrões modernos
 
